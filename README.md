@@ -1,2 +1,12 @@
-# 25SU-INEW-2330-7P1<h1>
-GitHub Repo for Comp Software Project:Plan/Design 2025 Summer <h2>
+# Fulfiment Inventory Management System
+
+## Overview
+This project is a C# and SQL based project, designed to create a simplier more effective way to keep track of inventory for a stores fulfilment team.
+## Features
+- SQL Database Integration: Ensures efficient data storage and retrieval.
+- User-Friendly Interface: Designed with simplicity in mind for easy adoption.
+- Reporting and Analytics: Generates insights on inventory usage patterns.
+
+## Technologies Used
+- C#
+- SQL
