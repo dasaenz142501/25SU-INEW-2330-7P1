@@ -1,4 +1,4 @@
-# 🧾 Software Development Proposal: Automotive Parts Sales & Management System
+# Software Development Proposal: Automotive Parts Sales & Management System
 
 ## Prepared On: May 28, 2025  
 **Prepared by:** Diego Saenz, DS INC.  
@@ -82,4 +82,17 @@ We will develop a **Database Management System (DBMS)** that allows **customers*
   - Manage customer records  
   - Track inventory  
   - Apply and manage promotional codes  
-  - Generate and analyze sales reports  
+  - Generate and analyze sales reports
+ 
+---
+
+## Technical Support
+
+**If you have any issues with the software, do not hesitate to contact us!**
+*24/7 Support at*
+--Email: dasaenz142501@mymail.tstc.edu
+--Phone: 281-750-1921
+
+---
+
+##
