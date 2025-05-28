@@ -181,3 +181,90 @@ Upon project completion, DS INC. will deliver:
 - Phone: 281-750-1921
 
 ---
+
+## Training 
+
+DS INC. wants you to be able to use your new software to its full potential. To that end, training will be provided by our staff. Please see below for our training procedure and manual in PDF form for your reference.
+
+Training Procedure:
+
+1-on-1 Virtual Training: Conducted over Zoom or Google Meet.
+
+1-on-1 In-Person Training: Available upon request at Toyota USA’s headquarters or regional office.
+
+Training Hours: 10 hours (5 sessions of 2 hours each)
+
+Support Materials: A digital training manual (PDF) and video tutorials will be provided for future reference.
+
+---
+
+## Warranty and Guarantee
+
+DS INC. is invested in your success. During the duration of the project, DS INC. will take all precautions and perform rigorous testing to ensure full functionality of the installed software.
+
+The project is 100% guaranteed for the duration of the development and implementation stages. Thereafter, for a period of 3 months, our services will be available to Toyota USA at no additional cost for any issues directly related to the system delivered. 
+
+After this period, we are open to discussing extended warranties or support contracts.
+
+---
+
+## Terms and Conditions
+
+**Compensation:**
+Payments are only accepted in USD by bank transfer or ACH.
+DS INC. will provide invoices to Toyota USA upon completion of each section of the project.
+Payment may be completed up to 15 business days after the receipt of invoice. If payment is not received, Toyota USA and DS INC. will reach an agreement for a payment scheme which must be adhered to.
+All applicable taxes for services rendered shall be paid by Toyota USA;
+Failure to comply with the payment schedule will result in breach of contract, termination of the contract and a cessation of the working relationship. Suspension of all current and future services and a 10% late fee will be applied to the overdue invoice.
+If travel expenses are to be incurred by the DS INC., the cost shall be partially compensated by Toyota USA; A set portion of 50% will be compensated by Toyota USA.
+Miscellaneous expenses on the part of DS INC., shall be kept track of – receipts and other, and submitted to Toyota USA at set intervals of 2 months. Only pre-approved costs will be considered and paid by Toyota USA. Alcohol or any other controlled substance is not a permitted expense.
+
+**Contractual Relationship of Parties**
+A) Upon signing this proposal, DS INC. and Toyota USA will enter into a legally binding contractual agreement which will terminate at the agreed upon date.
+B) Upon signing this proposal, both parties agree that they are independent contractors, and the relationship between them does not constitute a joint venture of any means.
+
+**Independent Contractors:**
+Both DS INC. and Toyota USA agree to enter into this agreement as free agents and no other agreement apart from this one exists between. This includes, but not limited to: partnership, joint venture or any other business agreement.
+
+**Terms and Conditions of Agreement:**
+Upon signing this proposal, both parties agree to collaborate for the agreed upon time frame of: 10 weeks. The parties may agree to extend the contract beyond the agreed upon time. Please contact DS INC. to renegotiate the terms. Extensions are subject to availability.
+
+**Permissions and Approvals:**
+Toyota USA agrees to provide DS INC. any necessary material (code, data..) to complete the desired project. All information provided will be held in strictest confidence and is bound by privacy and security measures.
+
+**Intellectual Property**
+DS INC. and Toyota USA agree that any intellectual property created during the project will be in the sole ownership of DS INC.
+
+**Audit:**
+Both Toyota USA and DS INC. agree to retain all documents pertaining to the above project and services rendered therein for a period of 3 years. Failure to provide the documents upon inspection shall result in breach of contract and a penalty of 10% of project total
+
+**Project Exclusivity**
+Toyota USA agrees that DS INC. is the sole provider of services for this undersigned project. Neither party will assign responsibilities to outside assistance unless agreed upon by both Toyota USA and Toyota USA.
+
+**Limitation of Liability**
+DS INC. is not liable for changes made to the website/blogs or other media projects that limit/ impede the functionality of pages prior to, or after the completion of the project.
+
+**Termination and Renewal of Services**
+If either Toyota USA or DS INC. decide to terminate the working relationship, a notice period of 15 days must be provided by either party prior to termination.
+
+**Security and Warranty**
+DS INC. agrees that all work will be completed in the allotted time frame. If delays occur, a re-negotiation of terms will be proposed.
+
+**Confidentiality**
+DS INC. and Toyota USA agree that all information provided during the working relationship will be held in strictest confidence. Neither party shall disclose details of project unless explicitly permitted to do so by DS INC. and/or Toyota USA. The privacy stipulation will be enforced for a period of 5 years, whereupon only work specifically done by DS INC. shall be disclosed.
+
+---
+
+## Agreement to services provided
+
+Please initial each page and sign the below to indicate you have read, understood and agree to the terms and conditions stipulated in the above agreement.
+
+Toyota USA
+Mark Smith
+
+DS INC.
+Diego Saenz
+
+---
+
+
