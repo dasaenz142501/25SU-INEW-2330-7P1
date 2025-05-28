@@ -1,41 +1,85 @@
-# Software Development Proposal: Automotive Parts Sales & Management System
+# 🧾 Software Development Proposal: Automotive Parts Sales & Management System
 
-## Prepared by:
-Diego Saenz
+## Prepared On: May 28, 2025  
+**Prepared by:** Diego Saenz, DS INC.  
+**Prepared for:** Mark Smith, Toyota USA  
+
+---
+
+## Project Overview
+
+DS INC. proposes the development of a **database-driven management system** for Toyota USA that bridges the gap between customers and dealership service desks. This system will enable direct purchasing of automotive parts and streamline inventory management, customer interaction, and sales processing.
+
+The solution will be built using **C#** for the front end and **SQL Server** for the back end, delivering an intuitive, secure, and scalable application.
+
+---
+
+## Letter from the CEO
+
+Dear Toyota USA,
+
+We at DS INC. are excited to present a software solution tailored to your dealership’s needs. Our proposed system will enhance customer access to automotive parts while optimizing backend operations for managers and staff.
+
+We look forward to delivering a modern solution that meets your business objectives and provides long-term value.
+
+Sincerely,  
+**Diego Saenz**  
+CEO / Head Programmer  
 DS INC.
-## Prepared For:
-Mark Smith
-Toyota USA
 
-Prepared on: 5/28/2025
-## Project Proposal
-Toyota USA, 
-We at DS INC. aim to develop a database-driven management system that bridges the gap between customers and dealership service desks, enabling direct purchasing of automotive parts. 
-The solution will streamline inventory management, customer interactions, and sales processing through an intuitive application, built using C# and SQL.
-Sincerely,
-Diego Saenz
-CEO/Head Programmer
-Of: DS INC.
-## Our Biography
-DS INC. is one of the leading software development firms in the San Antonio area with 3 experience in the field. Through the years, we have acquired the experience and track record in providing exceptional service and customer satisfaction. Our focus is you. We understand that creating client-focused software services requires more than technical knowledge; it is for this reason that our staff are not only excellent software technicians but communicators as well. Not only do we provide stellar service for the duration of the project, but our post sale maintenance services extend far beyond the assignment itself.
-## Our team
-<img src="https://github.com/user-attachments/assets/aefa001d-9535-4043-bf35-f5d363318908" alt="Alt text" width="500" height="500">
-Diego Saenz
-CEO
+---
+
+## About DS INC.
+
+**DS INC.** is a leading software development firm based in **San Antonio**, with **3 years** of industry experience. Our team is committed to delivering exceptional customer service and scalable, client-focused software solutions.
+
+We specialize in:
+- Custom database applications
+- Enterprise software development
+- Post-deployment support and maintenance
+
+Our blend of technical expertise and strong communication ensures our clients receive high-quality service—before, during, and after project completion.
+
+---
+
+## Our Team
+
+![Team Member - Diego Saenz](https://github.com/user-attachments/assets/aefa001d-9535-4043-bf35-f5d363318908)  
+**Diego Saenz**  
+*CEO, Lead Developer*
+
+---
+
 ## Problem Statement
-Traditional dealership parts purchasing requires interaction with the service desk, leading to inefficiencies such as long wait times, miscommunications, and limited accessibility for customers. The lack of a self-service option results in inconvenience and potential loss of sales.
+
+Traditional parts purchasing at dealerships often requires interacting with service desks, leading to:
+- Long wait times  
+- Miscommunications  
+- Inconvenient business hours  
+- Lost sales opportunities due to limited accessibility
+
+---
+
 ## Proposed Solution
-This project will implement a Database Management System (DBMS) that allows customers, managers, and employees to efficiently interact with inventory and transactions. The application will have multiple access levels, ensuring tailored functionalities for different users
-## Features
-- Allow new users to create an account for the purpose of purchasing items
-- Shopping experience must include a Point of Sales for employees/managers and shopping cart for customers, receipts and invoices as output
-- Provide a manager the ability to maintain customer data, inventory, promotional codes, and sales reports
-## Dataflow
-- Customers create accounts and browse inventory.
-- Shopping cart processes user selections.
-- Transactions handled through the POS system.
-- Data stored in SQL Server, accessible via structured queries.
-- Managers can update inventory, analyze sales reports, and manage promotions.
-## Technologies Used
-- Front-End: C#
-- Back-End: SQL
+
+We will develop a **Database Management System (DBMS)** that allows **customers**, **managers**, and **employees** to interact with inventory and transactions through a role-specific interface. Key features include:
+
+- Multiple access levels (customer, employee, manager)
+- Centralized SQL database for real-time data access
+- Self-service tools for customers
+- POS functionality for employees and managers
+
+---
+
+## Key Features
+
+- **User Registration:** New users can create accounts to purchase parts.
+- **Shopping Experience:**
+  - Customers use a shopping cart system.
+  - Employees and managers use a POS system.
+- **Checkout & Invoicing:** Generate digital receipts and invoices.
+- **Admin Tools for Managers:**
+  - Manage customer records  
+  - Track inventory  
+  - Apply and manage promotional codes  
+  - Generate and analyze sales reports  
