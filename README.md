@@ -19,7 +19,7 @@ Of: DS INC.
 ## Our Biography
 DS INC. is one of the leading software development firms in the San Antonio area with 3 experience in the field. Through the years, we have acquired the experience and track record in providing exceptional service and customer satisfaction. Our focus is you. We understand that creating client-focused software services requires more than technical knowledge; it is for this reason that our staff are not only excellent software technicians but communicators as well. Not only do we provide stellar service for the duration of the project, but our post sale maintenance services extend far beyond the assignment itself.
 ## Our team
-![IMG_5201](https://github.com/user-attachments/assets/aefa001d-9535-4043-bf35-f5d363318908)
+<img src="https://github.com/user-attachments/assets/aefa001d-9535-4043-bf35-f5d363318908" alt="Alt text" width="300" height="200">
 Diego Saenz
 CEO
 ## Problem Statement
