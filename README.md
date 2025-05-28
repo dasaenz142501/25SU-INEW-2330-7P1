@@ -92,8 +92,8 @@ We will develop a **Database Management System (DBMS)** that allows **customers*
 
 24/7 Support:
 
--Email: dasaenz142501@mymail.tstc.edu
--Phone: 281-750-1921
+- Email: dasaenz142501@mymail.tstc.edu
+- Phone: 281-750-1921
 
 ---
 
